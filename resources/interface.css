@@ -1,0 +1,55 @@
+/* Style pour les boutons */
+.sbutton {
+    -fx-background-color: #1e2a33;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #1e2a33;
+    -fx-border-width: 1px;
+    -fx-pref-width: 100px;
+    -fx-cursor: pointer;
+}
+
+.sbutton15 {
+    -fx-background-color: #1e2a33;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #1e2a33;
+    -fx-border-width: 1px;
+    -fx-pref-width: 210px;
+    -fx-cursor: pointer;
+}
+
+.sbutton2 {
+    -fx-background-color: #1e2a33;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #1e2a33;
+    -fx-border-width: 1px;
+    -fx-pref-width: 10px;
+    -fx-cursor: pointer;
+}
+
+.sbutton:hover, .sbutton2:hover, .sbutton15:hover {
+    -fx-background-color: #293a46;
+}
+
+/* Style pour les champs de texte et les labels*/
+.text-field {
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-border-color: #ccc;
+    -fx-border-width: 1px;
+    -fx-pref-width: 40px;
+}
+
+.txt-label {
+    -fx-font-size: 16px;
+    color: white;
+    -fx-font-weight: bold;
+}
