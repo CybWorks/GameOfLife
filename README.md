@@ -19,6 +19,10 @@ Une cellule morte avec 3 voisins devient vivante, représentat la reproduction.
 - Possibilité de vider la grille ou de la remplir
 - Pouvoir de Thanos
 
+## Apercu
+
+![Screenshot](screenshots/screenshot1.png)
+
 ## Utilisation
 1. Téléchargez ou clonez ce dépôt
 2. Ouvrez le projet dans votre IDE préféré
